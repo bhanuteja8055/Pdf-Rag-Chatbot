@@ -46,7 +46,7 @@ To use the PDF Intelligence System:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/bhanuteja8055/ChatPDF.git
+   git clone https://github.com/bhanuteja8055/pdf-RAG-Chat.git
    ```
 
 2. Install dependencies.
