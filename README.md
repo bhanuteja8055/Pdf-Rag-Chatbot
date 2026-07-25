@@ -8,6 +8,7 @@ The goal of this project is to create a user-centric and intelligent system that
 ## Demo
 
 
+<img width="1876" height="901" alt="chatbot1" src="https://github.com/user-attachments/assets/2df57b4e-b4e6-4dee-9121-db4d093f7715" />
 
 
 
